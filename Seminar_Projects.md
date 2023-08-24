@@ -28,7 +28,7 @@
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
 |   1  |   CCE       | Vakati Charan <br/> Sahithi <br/>  |  |
-|   2  |   CCE       | Dinesh <br/> Mohan V <br/> Sanjay S <br/> Tamilarasu M | | 
+|   2  |   CCE       | Dinesh <br/> Mohan V <br/> Sanjay S <br/> Tamilarasu M | IoT Integration with Cloud | 
 |   3  |   CCE       | KR Abishekraswanth <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | | 
 |   4  |   CCE       | Sivashankar S <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud |
 
