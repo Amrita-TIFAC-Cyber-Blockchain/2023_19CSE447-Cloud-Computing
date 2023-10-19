@@ -37,7 +37,7 @@
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
 |   1  |   ECE       | Kavinandhan B <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth | Security in Cloud Computing: Opportunities and Challenges |
-|   2  |   ECE       | Jay Surya C  <br/> Bharadwaj A.V.K  <br/> Keerthivasan C <br/> Anten Cheguevara Pu | |
+|   2  |   ECE       | Jay Surya C  <br/> Bharadwaj A.V.K  <br/> Keerthivasan C <br/> Anten Cheguevara Pu | Docker Security |
 |   3  |   ECE       | NSSV. Praneeth <br/> P. Vishnu Vardhan <br/> P. Vishnu Swaroop | | 
 
 
@@ -55,4 +55,5 @@
 |   2  |   ELC       | Kavya Balaji <br/> Sai Tejaswi | | 
 |   3  |   ELC       | Kalki Chandrashekar Reddy <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | | 
 |   4  |   ELC       | Aathithya SV <br/> Achanta Sai Krishna <br/> Mohammed Aathil <br/> Vimal Dharsan  | | 
-|   5  |   ELC       | Ajay Kumar <br/> Harish S <br/> Nipun BV <br/> Nipun BV | | 
+|   5  |   ELC       | Ajay Kumar <br/> Harish S <br/> Nipun BV <br/> Nipun BV | | |
+|   6  |   ELC       | Chadhurbala RV <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
