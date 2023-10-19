@@ -29,7 +29,7 @@
 |:----:|:-----------:|:-----:|:------:|
 |   1  |   CCE       | Vakati Charan <br/> Sahithi <br/>  |  |
 |   2  |   CCE       | Dinesh <br/> Mohan V <br/> Sanjay S <br/> Tamilarasu M | | 
-|   3  |   CCE       | KR Abishekraswanth <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | | 
+|   3  |   CCE       | KR Abishekraswanth <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | Integration of IoT with Cloud in Smart Cities | 
 |   4  |   CCE       | Sivashankar S <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud |
 
 ### ECE
@@ -55,5 +55,5 @@
 |   2  |   ELC       | Kavya Balaji <br/> Sai Tejaswi | | 
 |   3  |   ELC       | Kalki Chandrashekar Reddy <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | | 
 |   4  |   ELC       | Aathithya SV <br/> Achanta Sai Krishna <br/> Mohammed Aathil <br/> Vimal Dharsan  | | 
-|   5  |   ELC       | Ajay Kumar <br/> Harish S <br/> Nipun BV <br/> Nipun BV | | |
+|   5  |   ELC       | Ajay Kumar <br/> Harish S <br/> Nipun BV <br/> | | |
 |   6  |   ELC       | Chadhurbala RV <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
