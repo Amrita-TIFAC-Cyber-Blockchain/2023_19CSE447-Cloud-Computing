@@ -38,7 +38,8 @@
 |:----:|:-----------:|:-----:|:------:|
 |   1  |   ECE       | Kavinandhan B <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth | Security in Cloud Computing: Opportunities and Challenges |
 |   2  |   ECE       | Jay Surya C  <br/> Bharadwaj A.V.K  <br/> Keerthivasan C <br/> Anten Cheguevara Pu | Docker Security |
-|   3  |   ECE       | NSSV. Praneeth <br/> P. Vishnu Vardhan <br/> P. Vishnu Swaroop | | 
+|   3  |   ECE       | NSSV. Praneeth <br/> P. Vishnu Vardhan <br/> P. Vishnu Swaroop | Adoption issues in Cloud Computing |
+|   4  |   ECE       | Edara Venkata Uday Kumar <br/> R.Genga Madesh <br/> B.Manoj <br/> V. Jaswanth Reddy | Serverless Computing |
 
 
 ### EEE
@@ -51,7 +52,7 @@
 
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
-|   1  |   ELC       | Sri Sivaani S <br/> Sweatha P <br/> Swethashree K A  | Research on Cloud Computing and Security |
+|   1  |   ELC       | Sri Sivaani S <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System |
 |   2  |   ELC       | Kavya Balaji <br/> Sai Tejaswi | | 
 |   3  |   ELC       | Kalki Chandrashekar Reddy <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | | 
 |   4  |   ELC       | Aathithya SV <br/> Achanta Sai Krishna <br/> Mohammed Aathil <br/> Vimal Dharsan  | | 
