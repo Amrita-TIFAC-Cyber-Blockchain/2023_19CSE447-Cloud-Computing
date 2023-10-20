@@ -53,7 +53,7 @@
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
 |   1  |   ELC       | Sri Sivaani S <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System |
-|   2  |   ELC       | Kavya Balaji <br/> Sai Tejaswi | | 
+|   2  |   ELC       | Kavya Balaji <br/> Sai Tejaswi | Integration of IoR with Cloud | 
 |   3  |   ELC       | Kalki Chandrashekar Reddy <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | | 
 |   4  |   ELC       | Aathithya SV <br/> Achanta Sai Krishna <br/> Mohammed Aathil <br/> Vimal Dharsan  | Infrastructure as Code (IaC) | 
 |   5  |   ELC       | Ajay Kumar <br/> Harish S <br/> Nipun BV <br/> Sudarshan D <br/> V | Serverless Computing | |
