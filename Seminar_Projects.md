@@ -58,3 +58,4 @@
 |   ELC4       | Aathithya S V <br/> Achanta Sai Krishna <br/> 	Mohamed Aathil M <br/> Vimal Dharshan N | Infrastructure as Code (IaC) | 
 |   ELC5       | Ajaykumar J <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Serverless Computing | |
 |   ELC6       | Chadhurbala R V <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
+|   ELC7   | Nickil Vishwaa M S <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 
