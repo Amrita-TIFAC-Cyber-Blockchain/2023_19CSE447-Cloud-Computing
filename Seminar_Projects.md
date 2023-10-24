@@ -27,34 +27,34 @@
 
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
-|   1  |   CCE       | Vakati Charan <br/> Sahithi <br/>  | Security Analysis of IoT and Cloud Ecosystem  |
-|   2  |   CCE       | Dinesh <br/> Mohan V <br/> Sanjay S <br/> Tamilarasu M | | 
-|   3  |   CCE       | KR Abishekraswanth <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | Integration of IoT with Cloud in Smart Cities | 
+|   1  |   CCE       | Vakati Charan <br/> Vudattu Sreya Sahithi <br/>  | Security Analysis of IoT and Cloud Ecosystem  |
+|   2  |   CCE       | Dinesh <br/> Mohan V <br/> Sanjay S <br/> Tamil Arasu M S | | 
+|   3  |   CCE       | Abishekraswanth K R <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | Integration of IoT with Cloud in Smart Cities | 
 |   4  |   CCE       | Sivashankar S <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud |
 
 ### ECE
 
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
-|   1  |   ECE       | Kavinandhan B <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth | Security in Cloud Computing: Opportunities and Challenges |
-|   2  |   ECE       | Jay Surya C  <br/> Bharadwaj A.V.K  <br/> Keerthivasan C <br/> Anten Cheguevara Pu | Docker Security |
-|   3  |   ECE       | NSSV. Praneeth <br/> P. Vishnu Vardhan <br/> P. Vishnu Swaroop | Adoption issues in Cloud Computing |
-|   4  |   ECE       | Edara Venkata Uday Kumar <br/> R.Genga Madesh <br/> B.Manoj <br/> V. Jaswanth Reddy | Serverless Computing |
+|   1  |   ECE       | Kavinandhan B <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth M J | Security in Cloud Computing: Opportunities and Challenges |
+|   2  |   ECE       | Jay Surya C  <br/> Bharadwaj A V K  <br/> C Keerthivasan <br/> Anten Cheguevara PU | Docker Security |
+|   3  |   ECE       | Nekkanti Sri Sai Venkata Praneeth <br/> Pagadala Vishnu Vardhan <br/> Potta Vishnu Swaroop | Adoption issues in Cloud Computing |
+|   4  |   ECE       | Edara Venkata Uday Kumar <br/> Genga Madesh R <br/> Buradakavi Manoj <br/> Vaddireddy Jaswanth Reddy| Serverless Computing |
 
 
 ### EEE
 
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
-|   1  |   EEE       | Maitreya Cherukupalli <br/> Krishna Prasath R <br/> Ragavan B | Cloud Security Best Practices for GDPR Compliance |
+|   1  |   EEE       | Maitreya Cherukupalli <br/> Krishnaprasath Rajagopalan <br/> Ragavan B | Cloud Security Best Practices for GDPR Compliance |
 
 ### ELC
 
 | S.No | Team Number | Names |  Topic |
 |:----:|:-----------:|:-----:|:------:|
 |   1  |   ELC       | Sri Sivaani S <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System |
-|   2  |   ELC       | Kavya Balaji <br/> Sai Tejaswi | Integration of IoR with Cloud | 
-|   3  |   ELC       | Kalki Chandrashekar Reddy <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | Secure DevOps in Cloud Environments | 
-|   4  |   ELC       | Aathithya SV <br/> Achanta Sai Krishna <br/> Mohammed Aathil <br/> Vimal Dharsan  | Infrastructure as Code (IaC) | 
-|   5  |   ELC       | Ajay Kumar <br/> Harish S <br/> Nipun BV <br/> Sudarshan D <br/> V | Serverless Computing | |
-|   6  |   ELC       | Chadhurbala RV <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
+|   2  |   ELC       | Kavya Balaji <br/> Sonta Sai Tejaswi Reddy | Integration of IoR with Cloud | 
+|   3  |   ELC       | Kalki Chandra Shekar Reddy <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | Secure DevOps in Cloud Environments | 
+|   4  |   ELC       | Aathithya S V <br/> Achanta Sai Krishna <br/> 	Mohamed Aathil M <br/> Vimal Dharshan N | Infrastructure as Code (IaC) | 
+|   5  |   ELC       | Ajaykumar J <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Serverless Computing | |
+|   6  |   ELC       | Chadhurbala R V <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
