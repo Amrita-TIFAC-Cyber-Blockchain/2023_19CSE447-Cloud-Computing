@@ -59,3 +59,4 @@
 |   ELC5       | Ajaykumar J <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Serverless Computing | |
 |   ELC6       | Chadhurbala R V <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
 |   ELC7   | Nickil Vishwaa M S <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 
+|   ELC8   | B Prem Sundar <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming |
