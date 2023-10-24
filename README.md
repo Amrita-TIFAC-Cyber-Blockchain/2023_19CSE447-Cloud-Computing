@@ -60,7 +60,12 @@
 |--------------|-----------------|
 | Online Course Start | 03 - Aug - 2023 |
 | Research Paper and Topic Finalization | 03 - Aug - 2023 |
-| Mid-Term | Oct - 2023 |
+| Completion of AWS S-I Course | 04 - Oct - 2023 |
+| Mid-Term Exam | 09 - Oct - 2023 |
+| Completion of AWS S-II Course | 12 - Nov - 2023 |
+| Research Paper Presentation | Dec - 2023 |
+| End Semester Exam | Dec - 2023 |
+| Results Annoucement | Jan - 2023 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
