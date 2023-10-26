@@ -36,7 +36,7 @@
 
 | Team Number | Names |  Topic |
 |:-----------:|:-----:|:------:|
-|   ECE1       | Kavinandhan B <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth M J | Security in Cloud Computing: Opportunities and Challenges |
+|   ECE1 ![](https://img.shields.io/badge/-Read-silver)      | Kavinandhan B <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth M J | Security in Cloud Computing: Opportunities and Challenges   |
 |   ECE2       | Jay Surya C  <br/> Bharadwaj A V K  <br/> C Keerthivasan <br/> Anten Cheguevara PU | Docker Security |
 |   ECE3       | Nekkanti Sri Sai Venkata Praneeth <br/> Pagadala Vishnu Vardhan <br/> Potta Vishnu Swaroop | Adoption issues in Cloud Computing |
 |   ECE4       | Edara Venkata Uday Kumar <br/> Genga Madesh R <br/> Buradakavi Manoj <br/> Vaddireddy Jaswanth Reddy| Serverless Computing |
@@ -61,3 +61,4 @@
 |   ELC7   | Nickil Vishwaa M S <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 
 |   ELC8   | B Prem Sundar <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming |
 |   ELC9   | Peddina Laxmi Ganesh <br/> Mohith Ungati <br/> Sampatirao Srikar | Blockchain and Cloud Computing |
+|   ELC10  | Avanish Jha <br/> Rudraksh Singh | Legal Aspects of Cloud Computing |
