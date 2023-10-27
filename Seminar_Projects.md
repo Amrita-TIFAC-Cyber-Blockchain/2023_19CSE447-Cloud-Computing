@@ -52,13 +52,13 @@
 
 | Team Number | Names |  Topic |
 |:-----------:|:-----:|:------:|
-|   ELC1       | Sri Sivaani S <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System |
+|   ELC1 ![](https://img.shields.io/badge/-Read-silver) | Sri Sivaani S <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System |
 |   ELC2       | Kavya Balaji <br/> Sonta Sai Tejaswi Reddy | Integration of IoR with Cloud | 
 |   ELC3       | Kalki Chandra Shekar Reddy <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | Secure DevOps in Cloud Environments | 
 |   ELC4       | Aathithya S V <br/> Achanta Sai Krishna <br/> 	Mohamed Aathil M <br/> Vimal Dharshan N | Infrastructure as Code (IaC) | 
 |   ELC5       | Ajaykumar J <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Kubernetes Compliance| |
-|   ELC6       | Chadhurbala R V <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
+|   ELC6 ![](https://img.shields.io/badge/-Read-silver) | Chadhurbala R V <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
 |   ELC7   | Nickil Vishwaa M S <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 
-|   ELC8   | B Prem Sundar <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming |
+|   ELC8 ![](https://img.shields.io/badge/-Read-silver) | B Prem Sundar <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming |
 |   ELC9   | Peddina Laxmi Ganesh <br/> Mohith Ungati <br/> Sampatirao Srikar | Blockchain and Cloud Computing |
 |   ELC10  | Avanish Jha <br/> Rudraksh Singh | Legal Aspects of Cloud Computing |
