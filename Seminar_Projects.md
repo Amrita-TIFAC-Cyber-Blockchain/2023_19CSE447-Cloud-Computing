@@ -51,4 +51,4 @@
 |   ELC7   | [Nickil Vishwaa M S]() <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 
 |   ELC8 ![](https://img.shields.io/badge/-Read-silver) | [B Prem Sundar]() <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming |
 |   ELC9   | [Peddina Laxmi Ganesh]() <br/> Mohith Ungati <br/> Sampatirao Srikar | Blockchain and Cloud Computing |
-|   ELC10  | [Avanish Jha]() <br/> Rudraksh Singh | Legal Aspects of Cloud Computing |
+|   ELC10  ![](https://img.shields.io/badge/-Read-silver) | [Avanish Jha]() <br/> Rudraksh Singh | Legal Aspects of Cloud Computing |
