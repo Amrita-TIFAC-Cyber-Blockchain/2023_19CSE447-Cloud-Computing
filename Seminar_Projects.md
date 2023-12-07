@@ -26,9 +26,9 @@
 
 | Team Number | Names |  Topic | Date |
 |:-----------:|:-----:|:------:|:-----:|
-|   ECE1 ![](https://img.shields.io/badge/-Read-silver) | [Kavinandhan B]() <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth M J | Security in Cloud Computing: Opportunities and Challenges   | 09 - Dec | 
-|   ECE2       | [Jay Surya C]() <br/> Bharadwaj A V K  <br/> C Keerthivasan <br/> Anten Cheguevara PU | Docker Security | 09 - Dec | 
-|   ECE3       | [Nekkanti Sri Sai Venkata Praneeth]() <br/> Pagadala Vishnu Vardhan <br/> Potta Vishnu Swaroop | Adoption issues in Cloud Computing | 09 - Dec | 
+|   ECE1 ![](https://img.shields.io/badge/-Read-silver) | [Kavinandhan B]() <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth M J | Security in Cloud Computing: Opportunities and Challenges   | 09 - Dec <br/> ![](https://img.shields.io/badge/-11:30_to_12:00-brown) | 
+|   ECE2       | [Jay Surya C]() <br/> Bharadwaj A V K  <br/> C Keerthivasan <br/> Anten Cheguevara PU | Docker Security | 09 - Dec <br/> ![](https://img.shields.io/badge/-15:00_to_15:30-brown) | 
+|   ECE3       | [Nekkanti Sri Sai Venkata Praneeth]() <br/> Pagadala Vishnu Vardhan <br/> Potta Vishnu Swaroop | Adoption issues in Cloud Computing | 09 - Dec <br/> ![](https://img.shields.io/badge/-17:30_to_18:00-brown) | 
 |   ECE4       | [Edara Venkata Uday Kumar]() <br/> Genga Madesh R <br/> Buradakavi Manoj <br/> Vaddireddy Jaswanth Reddy| Serverless Computing | 09 - Dec | 
 
 
@@ -36,19 +36,19 @@
 
 | Team Number | Names |  Topic | Date |
 |:-----------:|:-----:|:------:|:-----:|
-|   EEE1       | [Maitreya Cherukupalli]() <br/> Krishnaprasath Rajagopalan <br/> Ragavan B | Cloud Security Best Practices for GDPR Compliance | 09 - Dec | 
+|   EEE1       | [Maitreya Cherukupalli]() <br/> Krishnaprasath Rajagopalan <br/> Ragavan B | Cloud Security Best Practices for GDPR Compliance | 09 - Dec <br/> ![](https://img.shields.io/badge/-12:00_to_12:30-brown) | 
 
 ### ELC
 
 | Team Number | Names |  Topic | Date |
 |:-----------:|:-----:|:------:|:-----:|
-|   ELC1 ![](https://img.shields.io/badge/-Read-silver) | [Sri Sivaani S]() <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System | 10 - Dec | 
-|   ELC2       | [Kavya Balaji]() <br/> Sonta Sai Tejaswi Reddy | Integration of IoR with Cloud | 10 - Dec | 
-|   ELC3       | [Kalki Chandra Shekar Reddy]() <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | Secure DevOps in Cloud Environments | 10 - Dec | 
-|   ELC4 ![](https://img.shields.io/badge/-Explore-gold) | [Aathithya S V]() <br/> Achanta Sai Krishna <br/> 	Mohamed Aathil M <br/> Vimal Dharshan N | Infrastructure as Code (IaC) | 10 - Dec | 
-|   ELC5       | [Ajaykumar J]() <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Kubernetes Compliance| 10 - Dec | 
-|   ELC6 ![](https://img.shields.io/badge/-Read-silver) | [Chadhurbala R V]() <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | 10 - Dec | 
-|   ELC7   | [Nickil Vishwaa M S]() <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 10 - Dec | 
+|   ELC1 ![](https://img.shields.io/badge/-Read-silver) | [Sri Sivaani S]() <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System | 10 - Dec <br/> ![](https://img.shields.io/badge/-9:30_to_10:00-brown) | 
+|   ELC2       | [Kavya Balaji]() <br/> Sonta Sai Tejaswi Reddy | Integration of IoR with Cloud | 10 - Dec <br/> ![](https://img.shields.io/badge/-17:30_to_18:00-brown) | 
+|   ELC3       | [Kalki Chandra Shekar Reddy]() <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | Secure DevOps in Cloud Environments | 10 - Dec <br/> ![](https://img.shields.io/badge/-11:30_to_12:00-brown) | 
+|   ELC4 ![](https://img.shields.io/badge/-Explore-gold) | [Aathithya S V]() <br/> Achanta Sai Krishna <br/> 	Mohamed Aathil M <br/> Vimal Dharshan N | Infrastructure as Code (IaC) | 10 - Dec <br/> ![](https://img.shields.io/badge/-11:00_to_11:30-brown) | 
+|   ELC5       | [Ajaykumar J]() <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Kubernetes Compliance| 10 - Dec <br/> ![](https://img.shields.io/badge/-16:00_to_16:30-brown) | 
+|   ELC6 ![](https://img.shields.io/badge/-Read-silver) | [Chadhurbala R V]() <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | 10 - Dec <br/> ![](https://img.shields.io/badge/-16:30_to_17:00-brown) | 
+|   ELC7   | [Nickil Vishwaa M S]() <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 10 - Dec <br/> ![](https://img.shields.io/badge/-14:30_to_15:00-brown) | 
 |   ELC8 ![](https://img.shields.io/badge/-Read-silver) | [B Prem Sundar]() <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming | 10 - Dec | 
 |   ELC9   | [Peddina Laxmi Ganesh]() <br/> Mohith Ungati <br/> Sampatirao Srikar | Blockchain and Cloud Computing | 10 - Dec | 
-|   ELC10  | [Avanish Jha]() <br/> Rudraksh Singh | Legal Aspects of Cloud Computing | 10 - Dec | 
+|   ELC10  | [Avanish Jha]() <br/> Rudraksh Singh | Legal Aspects of Cloud Computing | 10 - Dec <br/> ![](https://img.shields.io/badge/-17:00_to_17:30-brown) | 
