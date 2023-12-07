@@ -15,40 +15,40 @@
 
 ### CCE
 
-| Team Number | Names |  Topic |
-|:-----------:|:-----:|:------:|
-|   CCE1       | [Vakati Charan]() <br/> Vudattu Sreya Sahithi <br/>  | Security Analysis of IoT and Cloud Ecosystem  |
-|   CCE2       | [Dinesh]() <br/> Mohan V <br/> Sanjay S <br/> Tamil Arasu M S | | 
-|   CCE3       | [Abishekraswanth K R]() <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | Integration of IoT with Cloud in Smart Cities | 
-|   CCE4       | [Sivashankar S]() <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud |
+| Team Number | Names |  Topic | Date |
+|:-----------:|:-----:|:------:|:-----:|
+|   CCE1       | [Vakati Charan]() <br/> Vudattu Sreya Sahithi <br/>  | Security Analysis of IoT and Cloud Ecosystem  | 09 - Dec | 
+|   CCE2       | [Dinesh]() <br/> Mohan V <br/> Sanjay S <br/> Tamil Arasu M S | Integration of IoT with Cloud in WSN | 09 - Dec | 
+|   CCE3       | [Abishekraswanth K R]() <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | Integration of IoT with Cloud in Smart Cities | 09 - Dec | 
+|   CCE4       | [Sivashankar S]() <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud | 09 - Dec | 
 
 ### ECE
 
-| Team Number | Names |  Topic |
-|:-----------:|:-----:|:------:|
-|   ECE1 ![](https://img.shields.io/badge/-Read-silver) | [Kavinandhan B]() <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth M J | Security in Cloud Computing: Opportunities and Challenges   |
-|   ECE2       | [Jay Surya C]() <br/> Bharadwaj A V K  <br/> C Keerthivasan <br/> Anten Cheguevara PU | Docker Security |
-|   ECE3       | [Nekkanti Sri Sai Venkata Praneeth]() <br/> Pagadala Vishnu Vardhan <br/> Potta Vishnu Swaroop | Adoption issues in Cloud Computing |
-|   ECE4       | [Edara Venkata Uday Kumar]() <br/> Genga Madesh R <br/> Buradakavi Manoj <br/> Vaddireddy Jaswanth Reddy| Serverless Computing |
+| Team Number | Names |  Topic | Date |
+|:-----------:|:-----:|:------:|:-----:|
+|   ECE1 ![](https://img.shields.io/badge/-Read-silver) | [Kavinandhan B]() <br/> Pranav R <br/> Srivatsan C <br/> Vinu Prasanth M J | Security in Cloud Computing: Opportunities and Challenges   | 09 - Dec | 
+|   ECE2       | [Jay Surya C]() <br/> Bharadwaj A V K  <br/> C Keerthivasan <br/> Anten Cheguevara PU | Docker Security | 09 - Dec | 
+|   ECE3       | [Nekkanti Sri Sai Venkata Praneeth]() <br/> Pagadala Vishnu Vardhan <br/> Potta Vishnu Swaroop | Adoption issues in Cloud Computing | 09 - Dec | 
+|   ECE4       | [Edara Venkata Uday Kumar]() <br/> Genga Madesh R <br/> Buradakavi Manoj <br/> Vaddireddy Jaswanth Reddy| Serverless Computing | 09 - Dec | 
 
 
 ### EEE
 
-| Team Number | Names |  Topic |
-|:-----------:|:-----:|:------:|
-|   EEE1       | [Maitreya Cherukupalli]() <br/> Krishnaprasath Rajagopalan <br/> Ragavan B | Cloud Security Best Practices for GDPR Compliance |
+| Team Number | Names |  Topic | Date |
+|:-----------:|:-----:|:------:|:-----:|
+|   EEE1       | [Maitreya Cherukupalli]() <br/> Krishnaprasath Rajagopalan <br/> Ragavan B | Cloud Security Best Practices for GDPR Compliance | 09 - Dec | 
 
 ### ELC
 
-| Team Number | Names |  Topic |
-|:-----------:|:-----:|:------:|
-|   ELC1 ![](https://img.shields.io/badge/-Read-silver) | [Sri Sivaani S]() <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System |
-|   ELC2       | [Kavya Balaji]() <br/> Sonta Sai Tejaswi Reddy | Integration of IoR with Cloud | 
-|   ELC3       | [Kalki Chandra Shekar Reddy]() <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | Secure DevOps in Cloud Environments | 
-|   ELC4 ![](https://img.shields.io/badge/-Explore-gold) | [Aathithya S V]() <br/> Achanta Sai Krishna <br/> 	Mohamed Aathil M <br/> Vimal Dharshan N | Infrastructure as Code (IaC) | 
-|   ELC5       | [Ajaykumar J]() <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Kubernetes Compliance| |
-|   ELC6 ![](https://img.shields.io/badge/-Read-silver) | [Chadhurbala R V]() <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | | 
-|   ELC7   | [Nickil Vishwaa M S]() <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 
-|   ELC8 ![](https://img.shields.io/badge/-Read-silver) | [B Prem Sundar]() <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming |
-|   ELC9   | [Peddina Laxmi Ganesh]() <br/> Mohith Ungati <br/> Sampatirao Srikar | Blockchain and Cloud Computing |
-|   ELC10  | [Avanish Jha]() <br/> Rudraksh Singh | Legal Aspects of Cloud Computing |
+| Team Number | Names |  Topic | Date |
+|:-----------:|:-----:|:------:|:-----:|
+|   ELC1 ![](https://img.shields.io/badge/-Read-silver) | [Sri Sivaani S]() <br/> Sweatha P <br/> Swethashree K A  | Cloud based Environmental Monitoring System | 10 - Dec | 
+|   ELC2       | [Kavya Balaji]() <br/> Sonta Sai Tejaswi Reddy | Integration of IoR with Cloud | 10 - Dec | 
+|   ELC3       | [Kalki Chandra Shekar Reddy]() <br/> Konda Sujan Surya Reddy <br/> Mohammed Abdul Sami <br/> Namilakonda Hari Charan | Secure DevOps in Cloud Environments | 10 - Dec | 
+|   ELC4 ![](https://img.shields.io/badge/-Explore-gold) | [Aathithya S V]() <br/> Achanta Sai Krishna <br/> 	Mohamed Aathil M <br/> Vimal Dharshan N | Infrastructure as Code (IaC) | 10 - Dec | 
+|   ELC5       | [Ajaykumar J]() <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Kubernetes Compliance| 10 - Dec | 
+|   ELC6 ![](https://img.shields.io/badge/-Read-silver) | [Chadhurbala R V]() <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | 10 - Dec | 
+|   ELC7   | [Nickil Vishwaa M S]() <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 10 - Dec | 
+|   ELC8 ![](https://img.shields.io/badge/-Read-silver) | [B Prem Sundar]() <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming | 10 - Dec | 
+|   ELC9   | [Peddina Laxmi Ganesh]() <br/> Mohith Ungati <br/> Sampatirao Srikar | Blockchain and Cloud Computing | 10 - Dec | 
+|   ELC10  | [Avanish Jha]() <br/> Rudraksh Singh | Legal Aspects of Cloud Computing | 10 - Dec | 
