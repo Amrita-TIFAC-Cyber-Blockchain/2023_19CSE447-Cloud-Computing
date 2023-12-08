@@ -17,10 +17,10 @@
 
 | Team Number | Names |  Topic | Date |
 |:-----------:|:-----:|:------:|:-----:|
-|   CCE1       | [Vakati Charan]() <br/> Vudattu Sreya Sahithi <br/>  | Security Analysis of IoT and Cloud Ecosystem  | 09 - Dec | 
+|   CCE1       | [Vakati Charan]() <br/> Vudattu Sreya Sahithi <br/>  | Security Analysis of IoT and Cloud Ecosystem  | 09 - Dec <br/> ![](https://img.shields.io/badge/-17:00_to_17:30-brown) | 
 |   CCE2       | [Dinesh]() <br/> Mohan V <br/> Sanjay S <br/> Tamil Arasu M S | Integration of IoT with Cloud in WSN | 09 - Dec | 
-|   CCE3       | [Abishekraswanth K R]() <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | Integration of IoT with Cloud in Smart Cities | 09 - Dec | 
-|   CCE4       | [Sivashankar S]() <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud | 09 - Dec | 
+|   CCE3       | [Abishekraswanth K R]() <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | Integration of IoT with Cloud in Smart Cities | 09 - Dec <br/> ![](https://img.shields.io/badge/-16:00_to_16:30-brown) | 
+|   CCE4       | [Sivashankar S]() <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud | 09 - Dec <br/> ![](https://img.shields.io/badge/-17:30_to_18:00-brown) | 
 
 ### ECE
 
@@ -49,6 +49,6 @@
 |   ELC5       | [Ajaykumar J]() <br/> S Harish <br/> Nipun B V <br/> Sudarshan D <br/> Vasant Raj PA | Kubernetes Compliance| 10 - Dec <br/> ![](https://img.shields.io/badge/-16:00_to_16:30-brown) | 
 |   ELC6 ![](https://img.shields.io/badge/-Read-silver) | [Chadhurbala R V]() <br/> Mouleshwar Saravanan <br/> Rahul Rajeev Pillai <br/> Ravi Gupta | Mobile Cloud Computing | 10 - Dec <br/> ![](https://img.shields.io/badge/-16:30_to_17:00-brown) | 
 |   ELC7   | [Nickil Vishwaa M S]() <br/> M Anish Krishna <br/> Darun Nivash B | Servless Computing | 10 - Dec <br/> ![](https://img.shields.io/badge/-14:30_to_15:00-brown) | 
-|   ELC8 ![](https://img.shields.io/badge/-Read-silver) | [B Prem Sundar]() <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming | 10 - Dec | 
+|   ELC8 ![](https://img.shields.io/badge/-Read-silver) | [B Prem Sundar]() <br/> S Sriyank <br/> Tadikamalla Gowtham Krishna | Cloud Gaming | 09 - Dec <br/> ![](https://img.shields.io/badge/-15:30_to_16:00-brown) | 
 |   ELC9   | [Peddina Laxmi Ganesh]() <br/> Mohith Ungati <br/> Sampatirao Srikar | Blockchain and Cloud Computing | 10 - Dec | 
 |   ELC10  | [Avanish Jha]() <br/> Rudraksh Singh | Legal Aspects of Cloud Computing | 10 - Dec <br/> ![](https://img.shields.io/badge/-17:00_to_17:30-brown) | 
