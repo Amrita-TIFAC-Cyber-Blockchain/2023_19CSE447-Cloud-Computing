@@ -43,11 +43,12 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal][CA] Quiz**  | 5 |
-| **[Internal][CA] Courses - AWS Sem-I**  | 3.5 |
+| **[Internal][CA] Courses - AWS Sem-I**  | 4 |
 | **[Internal][CA] Courses - AWS Sem-II**  | 4 |
-| **[Internal][CA] Seminar**  | 10 |
-| **[Internal][CA] Assignments**  | 7.5 |
+| **[Internal][CA] Assignment - 1**  | 2 |
+| **[Internal][CA] Assignment - 2**  | 5 |
+| **[Internal][CA] Quiz**  | 5 |
+| **[Internal][CA] Research Survery and Presentation**  | 10 |
 | **[Internal]** Mid-Term | 30 |
 | **[External]** End-Semester Exam | 40 |
 
@@ -66,7 +67,7 @@
 | Completion of AWS S-II Course | 12 - Nov - 2023 |
 | Research Paper Presentation | 10 - Dec - 2023 to 14 - Dec - 2023 |
 | End Semester Exam | 27 - Dec - 2023 |
-| Results Annoucement | Jan - 2023 |
+| Results Annoucement | 02 - Feb - 2024 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
