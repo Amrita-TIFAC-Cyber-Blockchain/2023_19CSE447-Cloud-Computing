@@ -43,9 +43,10 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal][CA] Quiz**  | 7.5 |
-| **[Internal][CA] Courses**  | 7.5 |
-| **[Internal][CA] Seminar**  | 7.5 |
+| **[Internal][CA] Quiz**  | 5 |
+| **[Internal][CA] Courses - AWS Sem-I**  | 3.5 |
+| **[Internal][CA] Courses - AWS Sem-II**  | 4 |
+| **[Internal][CA] Seminar**  | 10 |
 | **[Internal][CA] Assignments**  | 7.5 |
 | **[Internal]** Mid-Term | 30 |
 | **[External]** End-Semester Exam | 40 |
