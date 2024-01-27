@@ -1,4 +1,4 @@
-# 19CSE447 - Cloud Computing ![](https://img.shields.io/badge/-Live-brightgreen)
+# 19CSE447 - Cloud Computing ![](https://img.shields.io/badge/-Completed-darkgreen)
 ![](https://img.shields.io/badge/Batch-20EEE-lightgreen) ![](https://img.shields.io/badge/Batch-20ELC-lightgreen) ![](https://img.shields.io/badge/Batch-20CCE-lightgreen) ![](https://img.shields.io/badge/Batch-20ECE-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-Cloud-blue) ![](https://img.shields.io/badge/Subject-Elective-purple)  <br/>
 ![](https://img.shields.io/badge/Lecture-3-orange)  ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 ![](https://img.shields.io/badge/Students-61-blue) ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Average_Marks-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
