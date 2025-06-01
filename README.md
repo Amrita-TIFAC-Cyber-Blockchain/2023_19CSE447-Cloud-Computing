@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Lecture-3-orange)  ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 ![](https://img.shields.io/badge/Students-63-blue) <br/>
 ![](https://img.shields.io/badge/Pass_Percent-100.00-darkgreen) ![](https://img.shields.io/badge/Average_Marks-61.03-blue) <br/> 
-![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-92.83-blue) ![](https://img.shields.io/badge/TLP_Feedback-92.81-blue) 
+![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/TLP_Feedback-92.81-blue) ![](https://img.shields.io/badge/Course_Feedback-92.83-blue)
 
 #### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
